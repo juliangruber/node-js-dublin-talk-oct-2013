@@ -1,7 +1,6 @@
 
-### Structure of a lib
+// ### Structure of a lib
 
-```js
 // lib/input/index.js
 
 var Emitter = require('events').EventEmitter;
@@ -34,11 +33,10 @@ Input.prototype.keydown = function(ev) {
   input.value = '';
   this.emit('message', msg);
 }
-```
 
-For fs support bundle with [brfs](https://github.com/substack/brfs):
-
-```bash
-browserify --debug -t brfs lib/boot/boot.js > static/bundle.js
-```
+// For fs support bundle with [brfs](https://github.com/substack/brfs):
+//
+// ```bash
+// browserify --debug -t brfs lib/boot/boot.js > static/bundle.js
+// ```
 

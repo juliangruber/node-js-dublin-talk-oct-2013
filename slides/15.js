@@ -1,7 +1,6 @@
 
-### Server
+// ### Server
 
-```js
 // ./index.js
 
 var stack = require('stack');
@@ -13,7 +12,6 @@ module.exports = stack(
 );
 ```
 
-```js
 // ./lib/feature-a/index.js
 
 module.exports = function(req, res, next) {
@@ -21,5 +19,4 @@ module.exports = function(req, res, next) {
 
   // ...
 };
-```
 

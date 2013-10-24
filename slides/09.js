@@ -1,7 +1,6 @@
 
-### Server
+// ### Server
 
-```js
 var ecstatic = require('ecstatic');
 var serve = ecstatic(__dirname + '/static');
 
@@ -11,5 +10,4 @@ module.exports = function(req, res) {
   }
   serve(req, res);
 };
-```
 

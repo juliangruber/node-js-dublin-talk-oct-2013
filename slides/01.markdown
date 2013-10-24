@@ -1,5 +1,5 @@
 
-# Modular frontends and big app structure using browserify
+# Modular frontends and big app structure with browserify
 
 Hi, I'm Julian Gruber!
 

@@ -1,9 +1,7 @@
 
-### Usage of that lib
+// ### Usage of that lib
 
-[Streams](nodejs.org/api/stream.html) style:
-
-```js
+// [Streams](nodejs.org/api/stream.html) style
 // lib/boot/boot.js
 
 var Input = require('../input');
@@ -19,5 +17,4 @@ document.body.appendChild(list.el);
 input
 .pipe(api)
 .pipe(list);
-```
 

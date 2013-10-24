@@ -1,9 +1,7 @@
 
-### Usage of that lib
+// ### Usage of that lib
 
-[EventEmitter](http://nodejs.org/api/events.html) style:
-
-```js
+// [EventEmitter](http://nodejs.org/api/events.html) style
 // lib/boot/boot.js
 
 var Input = require('../input');
@@ -23,5 +21,4 @@ input.on('message', function(msg) {
 api.on('message', function(msg) {
   list.push(msg);
 });
-```
 
