@@ -1,0 +1,9 @@
+
+### Wrap the library
+
+1) find where it does
+
+```js
+window.lib = lib;
+```
+

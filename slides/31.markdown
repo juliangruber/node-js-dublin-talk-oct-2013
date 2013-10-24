@@ -1,9 +1,6 @@
 
 ## tape
 
-tape is a browser friendly version of tap, which both output
-test results in the Test Anything Protocol.
-
 * [tape](https://github.com/substack/tape)
 * [tap](https://github.com/isaacs/node-tap)
 * [Test Anything Protocol](http://testanything.org/wiki/index.php/Main_Page)

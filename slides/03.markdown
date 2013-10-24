@@ -4,5 +4,9 @@
 In *development* bundle on every request or on file change.
 
 In *production* serve bundles from disk, so you can use existing caching
-infrastructure (static file servers, varnish, etc).
+infrastructure:
+
+* static file servers
+* varnish
+* ...
 

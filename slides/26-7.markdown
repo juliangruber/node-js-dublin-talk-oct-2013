@@ -1,0 +1,15 @@
+
+### Wrap the library
+
+6) npm publish
+
+OR
+
+6) source your fork
+
+In package.json:
+
+```json
+  "lib": "git://github.com/juliangruber/lib#npm"
+```
+

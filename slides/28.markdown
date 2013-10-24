@@ -1,6 +1,5 @@
 
 #### Browser field to the resque!
 
-With browserify's `browser` field all it takes is to modify the `package.json`
-of the component and potentially each dependency.
+Modify the `package.json` of the component and potentially each dependency.
 

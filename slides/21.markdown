@@ -1,10 +1,9 @@
 
 ## Lazy load
 
-Need this for single page apps.
-
 ```js
 // lib/boot/boot.js
+
 load = require('any-javascript-loader');
 
 load('/graph.js', function() {

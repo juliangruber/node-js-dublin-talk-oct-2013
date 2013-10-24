@@ -1,17 +1,9 @@
 
 ## Dead code removal
 
-@substack is working on [undead](https://github.com/substack/undead)
-which does dead code removal.
-
-So e.g.
+WIP: [undead](https://github.com/substack/undead)
 
 ```js
-require('util').inherits
+require('util').inherits;
 ```
-
-will only include the inherits function and not all the other junk in
-the utils module.
-
-And more!
 

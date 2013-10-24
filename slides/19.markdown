@@ -1,9 +1,6 @@
 
 ## Split up bundles
 
-Graphing libraries can be quite huge, so we could move them to another bundle
-like so:
-
 ```bash
 $ browserify -x lib/graph/graph.js lib/boot/boot.js > static/bundle.js
 $ browserify -r lib/graph/graph.js > static/graph.js

@@ -1,0 +1,9 @@
+
+### Wrap the library
+
+2) turn that into
+
+```js
+module.exports = lib;
+```
+

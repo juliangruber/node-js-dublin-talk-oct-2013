@@ -1,7 +1,6 @@
 
 ### Convert from another package manager
 
-A common case are [components](http://github.com/component/component).
-
-There's a lot of really good frontend code published only as components.
+There's a lot of really good frontend code published only as
+[components](http://github.com/component/component).
 

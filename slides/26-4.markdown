@@ -1,0 +1,9 @@
+
+### Wrap the library
+
+3) add a package.json
+
+```bash
+$ npm init
+```
+

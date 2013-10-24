@@ -1,0 +1,14 @@
+
+#### Naming discrepancies
+
+Rewrite require statements:
+
+```js
+// package.json
+"browser": {
+  "get": "get-component"
+}
+```
+
+Then, pull request etc. etc.
+

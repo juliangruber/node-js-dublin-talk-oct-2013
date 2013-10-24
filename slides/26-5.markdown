@@ -1,0 +1,9 @@
+
+### Wrap the library
+
+4) push to your fork on github
+
+```bash
+$ git push -u origin npm
+```
+

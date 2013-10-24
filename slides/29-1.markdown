@@ -1,0 +1,16 @@
+
+#### Naming discrepancies
+
+Components often have:
+
+```js
+var get = require('get');
+```
+
+But:
+
+```js
+// package.json
+"name": "get-component",
+```
+

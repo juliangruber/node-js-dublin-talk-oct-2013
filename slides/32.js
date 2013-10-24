@@ -1,7 +1,6 @@
 
-### example
+// ### example
 
-```js
 var test = require('tape');
 
 test('javascript works', function(t) {
@@ -13,5 +12,4 @@ test('javascript works', function(t) {
     t.equal(2 + 2, 4);
   }, 100);
 });
-```
 

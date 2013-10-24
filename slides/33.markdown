@@ -1,11 +1,13 @@
 
 ## testling cli
 
-Put all your tests into `./test/` and then:
-
 ```bash
 $ sudo npm install -g testling
+```
 
+With tests in `./test/`:
+
+```bash
 $ browserify test/*.js | testling
 
 TAP version 13
@@ -18,6 +20,7 @@ ok 2 should be equal
 # pass  2
 
 # ok
+
 $ echo $?
 0
 ```

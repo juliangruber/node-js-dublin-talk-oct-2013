@@ -1,0 +1,14 @@
+
+### Wrap the library
+
+5) make a pull request
+
+* use an exports shim
+* point them to browserify standalone bundles
+
+```bash
+$ browserify -s lib index.js > dist/release.js
+```
+
+This exports it on the window object as `window.lib` if necessary.
+
