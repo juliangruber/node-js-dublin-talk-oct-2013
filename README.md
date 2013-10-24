@@ -1,4 +1,3 @@
-
 # Modular frontends and big app structure using browserify
 
 
@@ -6,7 +5,6 @@ Hi, I'm Julian Gruber!
 
 https://{github,twitter}.com/juliangruber
 
-~~~
 Node.js Dublin Oct 2013
 
 ## Quote
@@ -96,7 +94,7 @@ browser/<feature>/template.html  - template
 browser/<feature>/style.css      - stylesheet
 ```
 
-Special <feature>s:
+Special `<feature>`s:
 
 * boot: browser entry point
 * layout
