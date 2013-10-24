@@ -1,0 +1,11 @@
+
+## Analyse size
+
+```bash
+$ sudo npm install -g disc
+$ discify lib/boot/boot.js | bcat
+```
+
+* [disc](https://github.com/hughsk/disc)
+* [bcat](http://rtomayko.github.io/bcat/)
+

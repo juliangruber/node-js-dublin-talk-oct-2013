@@ -1,0 +1,18 @@
+
+## Client side heavy
+
+```
+index.js                         - server
+lib/*                            - server libs
+static/*                         - static files
+bin/*                            - start server
+browser/<feature>/index.js       - browser code
+browser/<feature>/template.html  - template
+browser/<feature>/style.css      - stylesheet
+```
+
+Special `<feature>`s:
+
+* boot: browser entry point
+* layout
+

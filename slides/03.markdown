@@ -1,0 +1,8 @@
+
+# Bundling strategies
+
+In *development* bundle on every request or use watchify.
+
+In *production* you'll want to server bundles from disk to use existing
+caching logic. (static file servers, varnish, etc.)
+

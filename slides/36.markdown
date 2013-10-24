@@ -1,0 +1,8 @@
+
+# Find modules
+
+```bash
+$ npm search foo
+$ component search foo
+```
+

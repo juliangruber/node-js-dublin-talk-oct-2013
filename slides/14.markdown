@@ -1,0 +1,13 @@
+
+## Equally client and server side
+
+```
+index.js                         - server
+bin/*                            - start server
+static/*                         - static files
+lib/<feature>/index.js           - server code
+lib/<feature>/<feature>.js       - client code
+lib/<feature>/style.css          - stylesheet
+lib/<feature>/template.html      - template
+```
+

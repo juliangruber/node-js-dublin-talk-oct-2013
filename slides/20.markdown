@@ -1,0 +1,14 @@
+
+## Load based on page
+
+```html
+<!-- index.html -->
+<script src="/bundle.js">
+```
+
+```html
+<!-- graph.html -->
+<script src="/graph.js">
+<script src="/bundle.js">
+```
+

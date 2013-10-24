@@ -1,0 +1,8 @@
+
+# Big bundles
+
+Bundles can become _huge_, especially if you need big monolothic libraries
+like [d3](https://github.com/mbostock/d3/).
+
+200k is nothing special...
+

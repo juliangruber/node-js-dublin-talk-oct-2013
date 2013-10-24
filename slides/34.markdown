@@ -1,0 +1,18 @@
+
+## testling api
+
+[testling](http://ci.testling.com/)
+
+```bash
+$ sudo npm install -g testlingify
+
+$ testlingify
+info testlingify Adding testling config to your package and creating testling hook on your github repository
+info testlingify Loaded testlingify config from /Users/juliangruber/.config/testlingify.js
+info testlingify Successfully set testling property in package.json.
+info testlingify Successfully created testling hook for juliangruber/lib as juliangruber
+
+$ testlingify badge
+[![testling badge](https://ci.testling.com/juliangruber/lib.png)](https://ci.testling.com/juliangruber/lib)
+```
+

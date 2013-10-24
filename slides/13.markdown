@@ -1,0 +1,6 @@
+
+## and that...
+
+...is how you avoid jQuery spaghetti
+without buying into frameworks.
+

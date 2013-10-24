@@ -1,0 +1,5 @@
+
+# Use non-browserify libs
+
+Not everyone publishes to npm :'(
+

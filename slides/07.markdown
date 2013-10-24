@@ -1,0 +1,9 @@
+
+# Modularity
+
+* server side code
+* client side code
+* server side templates?
+* client side templates
+* stylesheets
+

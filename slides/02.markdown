@@ -1,0 +1,8 @@
+
+## Quote
+
+From [backbonejs.org](http://backbonejs.org/):
+
+> It's all too easy to create JavaScript applications that end up as tangled
+> piles of jQuery selectors and callbacks
+

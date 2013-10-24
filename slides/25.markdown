@@ -1,0 +1,16 @@
+
+### Don't bundle at all
+
+```html
+<script src="/lib.js">
+<script src="/bundle.js">
+```
+
+```js
+var a = require('lib-a');
+var b = require('lib-b');
+var lib = window.lib;
+```
+
+or lazy load...
+

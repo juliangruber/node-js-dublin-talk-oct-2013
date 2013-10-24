@@ -1,0 +1,21 @@
+
+#### Naming discrepancies
+
+Components often have:
+
+```js
+var get = require('get');
+```
+
+But the package is published on npm as `get-component`.
+
+With the `browser` field you can rewrite those require statements:
+
+```json
+  "browser": {
+    "get": "get-component"
+  }
+```
+
+Then, pull request etc. etc.
+

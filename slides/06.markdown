@@ -1,0 +1,21 @@
+
+## Watchify cli
+
+* watches fs
+* recompiles only what changed -> faster
+
+```bash
+$ watchify --debug ./lib/boot/boot.js -o static/bundle.js
+```
+
+```js
+"scripts": {
+  "watchify": "watchify --debug ./lib/boot/boot.js -o static/bundle.js"  
+}
+```
+
+```bash
+$ npm run watchify &
+$ npm start
+```
+
