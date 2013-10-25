@@ -1,11 +1,6 @@
 # Modular frontends and big app structure using browserify
 
-
-Hi, I'm Julian Gruber!
-
-https://{github,twitter}.com/juliangruber
-
-Node.js Dublin Oct 2013
+### [Watch it on youtube!](http://www.youtube.com/watch?v=pN4kVmSTkkM)
 
 ## Quote
 
